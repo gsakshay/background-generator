@@ -1,0 +1,22 @@
+{
+  "name": "background_genarator",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsakshay/background-generator.git"
+  },
+  "author": "Akshay GS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsakshay/background-generator/issues"
+  },
+  "homepage": "https://github.com/gsakshay/background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
